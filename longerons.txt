@@ -1,0 +1,40 @@
+Stations (on centerline):
+=========================
+
+F1-F2: 18 mm
+F2-F3: 42 mm
+F3-F4: 165 mm
+F4-F5: 151 mm
+F5-F6: 110 mm
+F6-tail: 271
+
+Bottom longeron:
+================
+
+F1-F3: 61 mm total
+---
+F1-F2: 19 mm
+F2-F3: 42 mm
+
+F3-F6: 426 mm total
+---
+F3-F4: 165 mm
+F4-F5: 151 mm
+F5-F6: 110 mm
+
+F6-tail: 283 mm
+
+Top longeron:
+=============
+
+F1-F2: 28 mm (undercut top edge)
+
+F2-F3: 43 mm
+
+F3-F4: 165 mm
+
+F5-F6: 110 mm
+
+F6-tail: 271 mm
+
+
