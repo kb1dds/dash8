@@ -51,20 +51,20 @@
        CD_AIsq="0.04" CD_ELsq="0" />
     <Y CY_b="-0.81642" CY_p="0.00979" CY_r="0.333907" CY_dr="0.22749"
        CY_da="-0.02761" />
-    <l Cl_b="-0.0240925" Cl_p="-0.462504" Cl_r="0.0460948" Cl_dr="0.0188651"
+    <l Cl_b="-0.0240925" Cl_p="-0.462504" Cl_r="0.0460948" Cl_dr="-0.0288651"
        Cl_da="0.143837" />
     <n Cn_b="0.148155" Cn_p="-0.0138288" Cn_r="-0.157387" Cn_dr="-0.111666"
        Cn_da="0.0117119" />
   </aero>
   <config version="1">
     <descr_long>
-      <en>Automatically converted from melyan_01.air.</en>
+      <en>Largely based on measured values from model.</en>
     </descr_long>
     <descr_short>
       <en>default</en>
     </descr_short>
-    <mass_inertia version="1" units="0" Mass="0.081" I_xx="0.0456257"
-       I_yy="0.0445163" I_zz="0.0882453" I_xz="0.00304607" />
+    <mass_inertia version="1" units="0" Mass="0.081" I_xx="0.0219"
+       I_yy="0.00455" I_zz="0.0264" I_xz="0.00304607" />
     <sound version="1">
       <sample filename="fan.wav" type="0" pitchfactor="0.002" maxvolume="1" />
     </sound>
@@ -84,7 +84,7 @@
   </config>
   <graphics version="1" model="q200.ac">
     <descr_long>
-      <en>Automatically converted from melyan_01.air.</en>
+      <en>Based on FlightGear model.</en>
     </descr_long>
     <descr_short>
       <en>default</en>
@@ -115,7 +115,7 @@
     <!-- Aft fuselage point -->
     <wheel percent_brake="0.5" caster_angle_rad="0">
       <pos x="-3.3" y="0" z="-0.18" />
-      <spring constant="65" damping="0.25" max_force="2.0" />
+      <spring constant="65" damping="0.25" max_force="5.0" />
     </wheel>
     <!-- Tail fore point -->
     <wheel percent_brake="0.5" caster_angle_rad="0">
