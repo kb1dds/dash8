@@ -44,7 +44,7 @@
   <aero version="1" units="0">
     <ref chord="0.5" span="4" area="1.91" speed="39.3701" />
     <misc Alpha_0="0.0122173" eta_loc="0.3" CG_arm="0.75" span_eff="0.95" />
-    <m Cm_0="0.0142156" Cm_a="-0.298318" Cm_q="-10.2802" Cm_de="-0.621038" />
+    <m Cm_0="0.0142156" Cm_a="-0.198318" Cm_q="-10.2802" Cm_de="-0.621038" />
     <lift CL_0="0.108991" CL_max="1.1" CL_min="-0.6" CL_a="4.81276" CL_q="7.24396"
        CL_de="0.24722" CL_drop="0" CL_CD0="0.2" />
     <drag CD_prof="0.067" Uexp_CD="-0.5" CD_stall="0.15" CD_CLsq="0.01"
